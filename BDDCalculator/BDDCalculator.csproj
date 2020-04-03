@@ -1,8 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+	<!-- SonarQube needs this -->
+  <ProjectGuid>{2823e80e-ce90-426f-a11c-52c492fc4b35}</ProjectGuid>
   </PropertyGroup>
 
 </Project>
